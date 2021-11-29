@@ -1,0 +1,17 @@
+How to use:
+
+1- clone code locally
+
+2- set the environment:
+(i set the project for macOS  & iPhone environment)
+https://reactnative.dev/docs/environment-setup
+
+3- open terminal in the project directory and write:
+npm install
+(to download all dependencies of the project)
+
+4- run project by:
+npx react-native start
+npx react-native run-ios
+
+5- project devided into 2 pages (Home filter - Graphical reports)
